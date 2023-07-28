@@ -2,6 +2,7 @@
 img{
 	height:70%;
 	width:90%;
+	object-fit:cover;
 }
 .hero{
 	display:flex;
